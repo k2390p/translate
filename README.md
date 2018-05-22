@@ -23,3 +23,4 @@ $ python app.py
 
 - Go to http://127.0.0.1
 
+# translate
