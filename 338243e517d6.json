@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "starry-trilogy-171106",
+  "private_key_id": "338243e517d6722d161229ab2d44735dd22f0e58",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSvI6/42cygxvM\nt2CRpadRQM7JDTm/TLlKFd08AJP/9BNWmr/5boc3cZHtMgyVMrgvU08vQEFPRoFV\nVzYxkA/cC4/+avKGaExd0vpWfjZaOQnTK5l8qds05wuHQLHp0FAw07mqMamhxPqC\n1VDwBrw/hxuMVTNMV46TEtuZNdjz8yi7bWyu7CZYwIujRZKXtoT8M/8de6CmZxmx\nymd0YsrvUPsTPBssJGSQT6gV716nKQtNXDZX+VFbk3y06GhzG3d68DcdC/ZC8LQB\nHs9JLrQ3yM7GgzcDbN8NNA/BsXSvWndf0cO+T8oNLsIklIrayT6RdM5JwNzSrfQf\nHbfIZpFrAgMBAAECggEAA8FoIhLZ1OQrrkqrvuosfzrrzQhQB+mYvPgr1K4UBFjz\nV2QMQvRW6SXyvPBTwdfK4aCmiQhIGubPL8SO9qfdGvUizNCmuY92E82R2Ow4elo1\nox4u3ZqGBq2jUPD/ziXUaE8lGgRsMQ4igfJxQEWWxHQyAG/2V9Of2TWCTWV9dX2Y\nRLSLxU3hD2VZ5noguSGLN6ePOngGHNqb634PGYSpeJgsvssFVQQtRmwDWnhAJgfY\nBERFNXQrCg4jm/6IjtYgeC+jJX1H12VzuAzW+9/VYiJ//CJ8llB3YmrVgZpbzIFA\neJ7UZ34hyWzRM289VsDh61LagUEOWU/6Jw/7Lxd1oQKBgQDHq5YNi+Rkpyv706sv\nYPmLxvQCNip4+rnagkXAsdkfvQv+aCwxikqIcZYNoi8uZtOxZqZVEslMEgPL/bpB\ng4+11GcjqQnppRAexUF076zNcr7s2eBiTnNBPmvQnT/1zprC5raO19NPnaO8pdyX\nz4zva6JQeppfZbNIPurcNHC44QKBgQC8Ign02079lagYGKL3ZonOD7CWVB7jLLi/\nvhKgdLGoc5y3D/uS2kBZ8aSVFc0mhEe/Ging3k19/Hq94iLdIH1JZ2pzplYxK8mI\nbUrM5XppSEy4g8mMvz+M9BtyFkNQXLT7uD1weMrNKA6nolLnpYwAXKuCFkjwi6fQ\nwZ5fNJ/XywKBgBrtMtEk2moQeUf+pYlAJKcK74EU2OlztniXNNzlnwg+sE1gswUD\nR0XbO4cfJgm16Dp2Q1wZqnfNviFWWDXZjhnRSQ9wDlwp3GCp7Ufdwon6PXEneLEJ\nL1XPGy8I5cU6VXiPMHNW+7Iy6g/YtkTqwnDPLRZ5UjQnPOQzR+zmTYVBAoGAOHIC\nCLwQDBdt0qT5qD7Uk8WzVrcweTp+x9CwaAH7F65wU6Bw+5OOAS52EeDzp13C5Pxl\nmjk4iNdKwFPr3+qSjIaBsucyLxiTI+KesbEcNCBkHGw1+Yub9p966JTzZ1YZWvjh\nPjCPsFQXaYZTV3sc8TLcpnAnPDy6gfDFooz4dFcCgYEAq3VS8yO1LEMaXi9/fS2U\n3X9NRrGsfXdbqIHWSipUjtIu175Mxq0yJmlLJJsFhnw+P0VGUFHWSKYuaQeS9IXw\nWZZRJD8Qv2Rkw5/vQhUCSGAd9sLMTXWcIps4GuIgwDYcZfMmcAAuGbhEVzu/X9lj\nzZos3lmQaE0xJdwcSKgB8ik=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gtranslate@starry-trilogy-171106.iam.gserviceaccount.com",
+  "client_id": "118271534501245714457",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gtranslate%40starry-trilogy-171106.iam.gserviceaccount.com"
+}

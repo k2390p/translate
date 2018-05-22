@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}File Uploader - Page Not Found{% endblock %}
+
+{% block page_content %}
+<div class="page-header">
+    <h1>Comparison</h1>
+  {% for res in response %}
+<div style="float:left;margin-left:5%;margin-top:5%">{{res|safe}} &nbsp;</div>
+{% endfor %}
+</div>
+{% endblock %}
